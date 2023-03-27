@@ -47,7 +47,7 @@ This project is intended as a starting point for your own developments.
 How to use this project as a starting point
 ===========================================
 
-1. Visit [this link](https://github.com/aherbert/gdsc-smlm-ij-examples-plugin/generate)
+1. Visit [this link](https://github.com/aherbert/gdsc-smlm-ij-example-plugin/generate)
    to create a new repository in your space using this one as a template.
 
 2. [Clone your new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
